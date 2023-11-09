@@ -8,7 +8,8 @@ Import math module.
 ### Step 2: 
 give the two co-ordinates for finding diatance.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/saiganesh2006/DISTANCE-BETWEEN-TWO-POINTS/assets/145742342/dac9d9ab-d470-4f46-b8f7-32ed5b7a8b0c)
+
 ### Step 4: 
 Use the in-built sqrt function to find the distance.
 ### Step 5: 
